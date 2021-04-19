@@ -6,7 +6,8 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 
 ## Episode List
 
-* [004 - Sqlite3 Selection](https://www.youtube.com/watch?v=ZS5-cdray_w)
-* [003 - Sqlite3 Insertion](https://www.youtube.com/watch?v=7u942Xgc26A)
-* [002 - Sqlite3 Reversing](https://www.youtube.com/watch?v=BqSbWiae6v4)
-* [001 - Sqlite3 Reversing](https://www.youtube.com/watch?v=ZSLMF7Pn2sc)
+* [005 - Autopwner demo](https://youtu.be/N79yl_K2-nw)
+* [004 - Sqlite3 Selection](https://youtu.be/ZS5-cdray_w)
+* [003 - Sqlite3 Insertion](https://youtu.be/7u942Xgc26A)
+* [002 - Sqlite3 Reversing](https://youtu.be/BqSbWiae6v4)
+* [001 - Sqlite3 Reversing](https://youtu.be/ZSLMF7Pn2sc)
