@@ -6,6 +6,7 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 
 ## Episode List
 
+* [008 - Fuzzer Dev](https://youtu.be/hTtlisYJisg)
 * [007 - More DNS Server VR/Bug Patching](https://youtu.be/K9Nad5diH2k)
 * [006 - DNS Server VR/Bug Patching](https://youtu.be/I-pqPThkB4g)
 * [005 - Autopwner demo](https://youtu.be/N79yl_K2-nw)
