@@ -5,6 +5,9 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 [real hacker hours channel](https://www.youtube.com/channel/UCLV0cXSMOY1IvAkULVbLpwg)
 
 ## Episode List
+* [012 - First Look at Apache Reversing](https://youtu.be/qcFSVDefJ2Q)
+* [011 - More Fuzzer Dev](https://youtu.be/qLGIVgCylWU)
+* [010 - More Fuzzer Dev](https://youtu.be/04vxJGocmuc)
 * [009 - More Fuzzer Dev](https://youtu.be/4UfTWYwH0dE)
 * [008 - Fuzzer Dev](https://youtu.be/hTtlisYJisg)
 * [007 - More DNS Server VR/Bug Patching](https://youtu.be/K9Nad5diH2k)
