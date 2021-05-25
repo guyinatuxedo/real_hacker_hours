@@ -5,6 +5,8 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 [real hacker hours channel](https://www.youtube.com/channel/UCLV0cXSMOY1IvAkULVbLpwg)
 
 ## Episode List
+
+* [013 - Apache Packet Receiving Reversing](https://youtu.be/JptDmvqU-ys)
 * [012 - First Look at Apache Reversing](https://youtu.be/qcFSVDefJ2Q)
 * [011 - More Fuzzer Dev](https://youtu.be/qLGIVgCylWU)
 * [010 - More Fuzzer Dev](https://youtu.be/04vxJGocmuc)
