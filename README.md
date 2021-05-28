@@ -5,6 +5,8 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 [real hacker hours channel](https://www.youtube.com/channel/UCLV0cXSMOY1IvAkULVbLpwg)
 
 ## Episode List
+
+* [016 - More Apache Module Reversing](https://youtu.be/bcohk3aN_FA)
 * [015 - Apache mod_alias Reversing](https://youtu.be/ImUMjjBqWAA)
 * [014 - Apache Module Loading Reversing](https://youtu.be/uxQJBZe4bEM)
 * [013 - Apache Packet Receiving Reversing](https://youtu.be/JptDmvqU-ys)
