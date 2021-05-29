@@ -6,6 +6,8 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 
 ## Episode List
 
+* [018 - Apache Module Config Creation Code Path](https://youtu.be/qwrQvWyA-hQ)
+* [017 - Apache Hook Call Site Reversing](https://youtu.be/EvIC4XpZxmY)
 * [016 - More Apache Module Reversing](https://youtu.be/bcohk3aN_FA)
 * [015 - Apache mod_alias Reversing](https://youtu.be/ImUMjjBqWAA)
 * [014 - Apache Module Loading Reversing](https://youtu.be/uxQJBZe4bEM)
