@@ -6,6 +6,13 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 
 ## Episode List
 
+* [025 - Postfix Mail Transfer Reversing](https://youtu.be/F-1VluNbx1I)
+* [024 - Postfix Reversing](https://youtu.be/J3_6he6xewA)
+* [023 - Apache mod_fastcgi reversing](https://youtu.be/3zFSGP3B-Mg)
+* [022 - More Apache Module Fuzzer Dev](https://youtu.be/lpdJpZTeJxE)
+* [021 - Apache Module Super Basic Fuzzer Dev](https://youtu.be/AdKXuynGieo)
+* [020 - Apache mod_proxy_uwsgi rev](https://youtu.be/Z4TtHaLqO60)
+* [019 - Apache Config Merging Reversing](https://youtu.be/mCC62IJkT9I)
 * [018 - Apache Module Config Creation Code Path](https://youtu.be/qwrQvWyA-hQ)
 * [017 - Apache Hook Call Site Reversing](https://youtu.be/EvIC4XpZxmY)
 * [016 - More Apache Module Reversing](https://youtu.be/bcohk3aN_FA)
