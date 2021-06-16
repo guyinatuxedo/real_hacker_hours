@@ -6,6 +6,8 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 
 ## Episode List
 
+* [028 - Postfix Delivery Agent Reversing](https://youtu.be/xQELaHAAC-I)
+* [027 - Postfix Queue Manager Reversing](https://youtu.be/awL-Y8_2dpw)
 * [026 - Postfix Functionality Enumeration](https://youtu.be/p06j5l7xNu0)
 * [025 - Postfix Mail Transfer Reversing](https://youtu.be/F-1VluNbx1I)
 * [024 - Postfix Reversing](https://youtu.be/J3_6he6xewA)
