@@ -6,6 +6,11 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 
 ## Episode List
 
+
+* [032 - Semgrep Rule Writing](https://youtu.be/6eFagG2tlbs)
+* [031 - Begin Writing Semgrep Rules](https://youtu.be/5ymF-XkX6Xk)
+* [030 - Postfix Vstring analysis](https://youtu.be/j22k4LmTmXY)
+* [029 - Postfix Lookup Table Reversing](https://youtu.be/WFgFHYIecmg)
 * [028 - Postfix Delivery Agent Reversing](https://youtu.be/xQELaHAAC-I)
 * [027 - Postfix Queue Manager Reversing](https://youtu.be/awL-Y8_2dpw)
 * [026 - Postfix Functionality Enumeration](https://youtu.be/p06j5l7xNu0)
