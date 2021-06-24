@@ -7,6 +7,7 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 ## Episode List
 
 
+* [033 - First Look at QMQPD](https://youtu.be/lU5GWONNc6E)
 * [032 - Semgrep Rule Writing](https://youtu.be/6eFagG2tlbs)
 * [031 - Begin Writing Semgrep Rules](https://youtu.be/5ymF-XkX6Xk)
 * [030 - Postfix Vstring analysis](https://youtu.be/j22k4LmTmXY)
