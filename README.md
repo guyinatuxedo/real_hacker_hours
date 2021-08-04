@@ -6,6 +6,11 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 
 ## Episode List
 
+* [040 - Even more semgrep bug hunting](https://youtu.be/aJKCg1LYlq8)
+* [039 - Semgrep HTTP Bug Hunting](https://youtu.be/JR9h2QlJWnA)
+* [038 - Http Semgrep Bug Finding](https://youtu.be/NxVVNzMfuB4)
+* [037 - Semgrep Bug Finding](https://youtu.be/utSltRFeMM0)
+* [036 - Finding Bugs with Semgrep](https://youtu.be/X1kDtySrQko)
 * [035 - Ghidra Headless Scripting](https://youtu.be/qtN7C-KXg1Q)
 * [034 - Semgrep Testing](https://youtu.be/UevY3iwdbGg)
 * [033 - First Look at QMQPD](https://youtu.be/lU5GWONNc6E)
