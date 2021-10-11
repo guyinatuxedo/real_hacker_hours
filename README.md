@@ -6,6 +6,7 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 
 ## Episode List
 
+* [043 - Porting/Reviewing Nightmare Module 06 (bof shellcode)](https://youtu.be/JlMDQ6WdeXg)
 * [042 - Reviewing/Porting Nightmare 05 (bof func)](https://youtu.be/OOuvE3ZfzKM)
 * [041 - Porting Nightmare to Python3 pt 1](https://youtu.be/jtK_l0x1eWE)
 * [040 - Even more semgrep bug hunting](https://youtu.be/aJKCg1LYlq8)
