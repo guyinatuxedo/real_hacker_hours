@@ -6,6 +6,7 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 
 ## Episode List
 
+* [045 - Porting/Reviewing Nightmare Module 08 (bof dynamic)](https://youtu.be/N39h-ivISxM)
 * [044 - Porting/Reviewing Nightmare Module 07 (bof static)](https://youtu.be/rEsZARLdZLk)
 * [043 - Porting/Reviewing Nightmare Module 06 (bof shellcode)](https://youtu.be/JlMDQ6WdeXg)
 * [042 - Reviewing/Porting Nightmare 05 (bof func)](https://youtu.be/OOuvE3ZfzKM)
