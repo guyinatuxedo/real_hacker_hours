@@ -6,6 +6,7 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 
 ## Episode List
 
+* [046 - Ghidra Scripting](https://youtu.be/W62TXt5QOKM)
 * [045 - Porting/Reviewing Nightmare Module 08 (bof dynamic)](https://youtu.be/N39h-ivISxM)
 * [044 - Porting/Reviewing Nightmare Module 07 (bof static)](https://youtu.be/rEsZARLdZLk)
 * [043 - Porting/Reviewing Nightmare Module 06 (bof shellcode)](https://youtu.be/JlMDQ6WdeXg)
