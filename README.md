@@ -6,6 +6,8 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 
 ## Episode List
 
+* [048 - Ghidra API strcpy check](https://youtu.be/uUsRNsUjAOk)
+* [047 - Ghidra Sprintf("%s") check](https://youtu.be/fyykmrjXATg)
 * [046 - Ghidra Scripting](https://youtu.be/W62TXt5QOKM)
 * [045 - Porting/Reviewing Nightmare Module 08 (bof dynamic)](https://youtu.be/N39h-ivISxM)
 * [044 - Porting/Reviewing Nightmare Module 07 (bof static)](https://youtu.be/rEsZARLdZLk)
