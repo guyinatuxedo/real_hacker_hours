@@ -6,6 +6,9 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 
 ## Episode List
 
+* [051 - (stream) More Ghidra API bugfinder work](https://youtu.be/vMDcAVVGkRA)
+* [050 - Ghidra Fread Check](https://youtu.be/z5B5ENDYXiI)
+* [049 - Ghidra Memset Check](https://youtu.be/8wftv4yXeFk)
 * [048 - Ghidra API strcpy check](https://youtu.be/uUsRNsUjAOk)
 * [047 - Ghidra Sprintf("%s") check](https://youtu.be/fyykmrjXATg)
 * [046 - Ghidra Scripting](https://youtu.be/W62TXt5QOKM)
