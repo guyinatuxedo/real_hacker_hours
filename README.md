@@ -6,6 +6,10 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 
 ## Episode List
 
+* [055 - (stream) More Ghidra API bugfinder work](https://youtu.be/LU95mHlDfBc)
+* [054 - (stream) More Ghidra API bugfinder work](https://youtu.be/Z_NhrPX2Z_s)
+* [053 - (stream) More Ghidra API bugfinder work](https://youtu.be/O8Vehu4VTOs)
+* [052 - (stream) More Ghidra API bugfinder work](https://youtu.be/5neC47EavrE)
 * [051 - (stream) More Ghidra API bugfinder work](https://youtu.be/vMDcAVVGkRA)
 * [050 - Ghidra Fread Check](https://youtu.be/z5B5ENDYXiI)
 * [049 - Ghidra Memset Check](https://youtu.be/8wftv4yXeFk)
