@@ -6,6 +6,7 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 
 ## Episode List
 
+* [056 -  Ghidra Int Overflow Bug Detection](https://youtu.be/lWmCUUfcYa4)
 * [055 - (stream) More Ghidra API bugfinder work](https://youtu.be/LU95mHlDfBc)
 * [054 - (stream) More Ghidra API bugfinder work](https://youtu.be/Z_NhrPX2Z_s)
 * [053 - (stream) More Ghidra API bugfinder work](https://youtu.be/O8Vehu4VTOs)
