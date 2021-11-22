@@ -6,7 +6,7 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 
 ## Episode List
 
-
+* [062 -   Ghidra varnode definition tracing improvement](https://youtu.be/EZkLf4BmD5A)
 * [061 -   Ghidra Ptr incremented Bug Detection](https://youtu.be/x78Yayx0hgg)
 * [060 -  Ghidra Pcode Iteration of Loops](https://youtu.be/-vVA5lyvN1I)
 * [059 -  More Ghidra Data Tracing / Code Iteration](https://youtu.be/L-__1oP01sA)
