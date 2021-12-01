@@ -6,6 +6,7 @@ So, a few friends and I started a podcast called `real hacker hours` where basic
 
 ## Episode List
 
+* [065 -   Stack Bof Size Check Implementation](https://youtu.be/MiB3lHKHcUM)
 * [064 -   Ghidra Comparison Modeling](https://youtu.be/gMV7rn8BYbc)
 * [063 -   Stack Varnode Detection](https://youtu.be/_jIw4XLBOP8A)
 * [062 -   Ghidra varnode definition tracing improvement](https://youtu.be/EZkLf4BmD5A)
